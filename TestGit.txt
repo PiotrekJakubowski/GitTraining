@@ -1,7 +1,14 @@
 Test Git
 Change for main branch
 New Commit To Branch -> super urgent task
-<<<<<<< HEAD
 Git value change
 
 Changes on Master
+
+Git value change
+
+Git TestBranch
+
+Git change in local repo 234342
+
+Edit TestBranch 2
