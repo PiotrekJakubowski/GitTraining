@@ -10,4 +10,9 @@ public class TestClass {
     public newFunction(Boolean change) {
         this.change = change;
     }
+
+    public String superFunction() {
+        //do something super
+        //improve super function
+    }
 }
