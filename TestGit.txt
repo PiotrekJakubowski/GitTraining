@@ -12,3 +12,5 @@ Git TestBranch
 Git change in local repo 234342
 
 Edit TestBranch 2
+
+Edit inTestBranch
